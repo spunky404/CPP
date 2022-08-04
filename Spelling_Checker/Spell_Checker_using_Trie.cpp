@@ -1,5 +1,6 @@
 // Spell checker using Trie data structure
 //Program to check spelling entered by the user
+// Create a file database.txt which contains data of word before executing the code
 #include<bits/stdc++.h>
 #include<string.h>
 #include<fstream>
